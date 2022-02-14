@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seda333
+- 👋 Hi, I’m @sd333
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Data Analysis and Machine Learning
 - 💞️ I’m looking to collaborate on ...
